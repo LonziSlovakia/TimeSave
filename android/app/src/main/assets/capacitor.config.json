@@ -1,0 +1,12 @@
+{
+  "appId": "sk.timesave.app",
+  "appName": "TimeSave",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
